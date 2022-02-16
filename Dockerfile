@@ -6,8 +6,7 @@ COPY .env ./
 COPY .env.development ./
 COPY . ./
 RUN yarn
-RUN yarn global add react-scripts@3.4.1 --silent
-RUN yarn run build-staging
+RUN npm install
 COPY public ./
 EXPOSE 80
 CMD ["npm", "run", "start"]
