@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Home",
+        "path": "/home",
+        "expanded": ""
+    },
+    {
+        "name": "Products",
+        "path": "/basic/product",
+        "expanded": "product-management"
+    },
+    {
+        "name": "Promo Banner",
+        "path": "/basic/promotions",
+        "expanded": ""
+    },
+    {
+        "name": "Report",
+        "path": "/basic/report",
+        "expanded": ""
+    },
+    {
+        "name": "Customers",
+        "path": "/basic/customer/view",
+        "expanded": "customer-management"
+    },
+    {
+        "name": "Salespersons",
+        "path": "/basic/salesperson/view",
+        "expanded": "salesperson-management"
+    },
+    {
+        "name": "Salespersons",
+        "path": "/sales/salesperson",
+        "expanded": "salesperson-management"
+    },
+    {
+        "name": "Call Type Settings",
+        "path": "/basic/calltypesettings/view",
+        "expanded": ""
+    },
+    {
+        "name": "Application Settings",
+        "path": "/basic/application/settings",
+        "expanded": ""
+    },
+    {
+        "name": "Accessibility Settings",
+        "path": "/basic/accessibilitysettings",
+        "expanded": ""
+    },
+    {
+        "name": "Products",
+        "path": "/sales/product",
+        "expanded": "product-management"
+    },
+    {
+        "name": "Customers",
+        "path": "/sales/customer",
+        "expanded": "customer-management"
+    },
+    {
+        "name": "Products",
+        "path": "/market/product",
+        "expanded": "product-management"
+    },
+    {
+        "name": "Product Reviews",
+        "path": "/market/review",
+        "expanded": "review"
+    },
+    {
+        "name": "Product Ratings",
+        "path": "/market/rating",
+        "expanded": "review"
+    },
+    {
+        "name": "Promo Banners",
+        "path": "/market/promobanner",
+        "expanded": "promo-banner"
+    },
+    {
+        "name": "Category Management",
+        "path": "/market/category",
+        "expanded": ""
+    },
+    {
+        "name": "Order History",
+        "path": "/market/orderhistory",
+        "expanded": "order"
+    },
+    {
+        "name": "Manage Order",
+        "path": "/market/order",
+        "expanded": "order"
+    },
+    {
+        "name": "About Us",
+        "path": "/market/aboutus",
+        "expanded": "library"
+    },
+    {
+        "name": "Frequently Asked Questions",
+        "path": "/market/faqs",
+        "expanded": "library"
+    },
+    {
+        "name": "Helpdesk",
+        "path": "/market/helpdesk",
+        "expanded": "library"
+    },
+    {
+        "name": "Roles & Accessibility",
+        "path": "/symphony/role",
+        "expanded": "user-management"
+    },
+    {
+        "name": "Fields Management",
+        "path": "/fields",
+        "expanded": ""
+    },
+    {
+        "name": "Vendor",
+        "path": "/market/vendor",
+        "expanded": "user-management"
+    },
+    {
+        "name": "Customer",
+        "path": "/market/customer",
+        "expanded": "user-management"
+    },
+    {
+        "name": "User Account",
+        "path": "/market/useraccount",
+        "expanded": "user-management"
+    },
+    {
+        "name": "Order Management",
+        "path": "/sales/order",
+        "expanded": ""
+    },
+    {
+        "name": "Distributor Management",
+        "path": "/sales/distributor",
+        "expanded": "distributor-management"
+    }
+]

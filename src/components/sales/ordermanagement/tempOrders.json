@@ -1,0 +1,267 @@
+[
+    {
+        "id": "ORDER0092340",
+        "orderNumber": "ORDER0092340",
+        "dateCreated": "2021-05-23 12:00:00+08:00",
+        "dateUpdated": "",
+        "billingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "shippingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "customerEmail": "",
+        "items": [
+            {
+                "name": "Nike Sportswear Essential",
+                "price": 899,
+                "productId": "CJ2243-645",
+                "productSkuId": "CJ2243-645",
+                "image": "",
+                "qty": 1,
+                "skuNumber": "CJ2243-645",
+                "size": "XL",
+                "color": "Black",
+                "status": "",
+                "totalAmount": 899,
+                "discountPrice": 0
+            }
+        ],
+        "paymentMethod": "Online Banking",
+        "status": "",
+        "totalAmount": 100,
+        "vendorId": "",
+        "customerName": "John Doe",
+        "mobileNumber": "09991234567",
+        "landlineNumber": "502-5555",
+        "salespersonId": ""
+    },
+    {
+        "id": "ORDER0092341",
+        "orderNumber": "ORDER0092341",
+        "dateCreated": "2021-05-23 12:00:00+08:00",
+        "dateUpdated": "",
+        "billingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "shippingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "customerEmail": "",
+        "items": [
+            {
+                "name": "Nike Sportswear Essential",
+                "price": 899,
+                "productId": "CJ2243-645",
+                "productSkuId": "CJ2243-645",
+                "image": "",
+                "qty": 1,
+                "skuNumber": "CJ2243-645",
+                "size": "XL",
+                "color": "Black",
+                "status": "",
+                "totalAmount": 899,
+                "discountPrice": 0
+            }
+        ],
+        "paymentMethod": "Online Banking",
+        "status": "",
+        "totalAmount": 200,
+        "vendorId": "",
+        "customerName": "John Doe",
+        "mobileNumber": "09991234567",
+        "landlineNumber": "502-5555",
+        "salespersonId": "test"
+    },
+    {
+        "id": "ORDER0092342",
+        "orderNumber": "ORDER0092342",
+        "dateCreated": "2021-05-23 12:00:00+08:00",
+        "dateUpdated": "",
+        "billingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "shippingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "customerEmail": "",
+        "items": [
+            {
+                "name": "Nike Sportswear Essential",
+                "price": 899,
+                "productId": "CJ2243-645",
+                "productSkuId": "CJ2243-645",
+                "image": "",
+                "qty": 1,
+                "skuNumber": "CJ2243-645",
+                "size": "XL",
+                "color": "Black",
+                "status": "",
+                "totalAmount": 899,
+                "discountPrice": 0
+            }
+        ],
+        "paymentMethod": "Online Banking",
+        "status": "",
+        "totalAmount": 350,
+        "vendorId": "",
+        "customerName": "John Doe",
+        "mobileNumber": "09991234567",
+        "landlineNumber": "502-5555",
+        "salespersonId": ""
+    },
+    {
+        "id": "ORDER0092343",
+        "orderNumber": "ORDER0092343",
+        "dateCreated": "2021-05-23 12:00:00+08:00",
+        "dateUpdated": "",
+        "billingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "shippingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "customerEmail": "",
+        "items": [
+            {
+                "name": "Nike Sportswear Essential",
+                "price": 899,
+                "productId": "CJ2243-645",
+                "productSkuId": "CJ2243-645",
+                "image": "",
+                "qty": 1,
+                "skuNumber": "CJ2243-645",
+                "size": "XL",
+                "color": "Black",
+                "status": "",
+                "totalAmount": 899,
+                "discountPrice": 0
+            }
+        ],
+        "paymentMethod": "Online Banking",
+        "status": "",
+        "totalAmount": 100,
+        "vendorId": "",
+        "customerName": "John Doe",
+        "mobileNumber": "09991234567",
+        "landlineNumber": "502-5555",
+        "salespersonId": ""
+    },
+    {
+        "id": "ORDER0092344",
+        "orderNumber": "ORDER0092344",
+        "dateCreated": "2021-05-23 12:00:00+08:00",
+        "dateUpdated": "",
+        "billingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "shippingAddress": {
+            "addressLine": "12 Block ABC, Jalan Austin Perdana",
+            "city": "Klang",
+            "province": "Johor",
+            "country": "Malaysia",
+            "customerId": "test",
+            "dateCreated": "2021-05-23 12:00:00+08:00",
+            "dateUpdated":  "2021-05-23 12:00:00+08:00",
+            "postalCode": "80001",
+            "tag": "Home"
+        },
+        "customerEmail": "",
+        "items": [
+            {
+                "name": "Nike Sportswear Essential",
+                "price": 899,
+                "productId": "CJ2243-645",
+                "productSkuId": "CJ2243-645",
+                "image": "",
+                "qty": 1,
+                "skuNumber": "CJ2243-645",
+                "size": "XL",
+                "color": "Black",
+                "status": "",
+                "totalAmount": 899,
+                "discountPrice": 0
+            }
+        ],
+        "paymentMethod": "Online Banking",
+        "status": "",
+        "totalAmount": 400,
+        "vendorId": "",
+        "customerName": "John Doe",
+        "mobileNumber": "09991234567",
+        "landlineNumber": "502-5555",
+        "salespersonId": "test"
+    }
+]

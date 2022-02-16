@@ -1,0 +1,47 @@
+[
+    {
+        "label": "View",
+        "value": "View",
+        "type": "view"
+    },
+    {
+        "label": "Input Text",
+        "value": "Input Text",
+        "type": "text"
+    },
+    {
+        "label": "Input Number",
+        "value": "Input Number",
+        "type": "number"
+    },  
+    {
+        "label": "Input Email",
+        "value": "Input Email",
+        "type": "email"
+    },  
+    {
+        "label": "Date Picker",
+        "value": "Date Picker",
+        "type": "datepicker"
+    },
+    {
+        "label": "Radio Button",
+        "value": "Radio Button",
+        "type": "radio"
+    },
+    {
+        "label": "Dropdown",
+        "value": "Dropdown",
+        "type": "select"
+    },
+    {
+        "label": "Searchable Dropdown",
+        "value": "Searchable Dropdown",
+        "type": "searchabledropdown"
+    },
+    {
+        "label": "Multimedia",
+        "value": "Multimedia",
+        "type": "multimedia"
+    }
+]

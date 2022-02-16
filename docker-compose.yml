@@ -1,0 +1,12 @@
+version: '3'
+services:
+  suites-market-ami:
+    container_name: staging-suites-market-ami1
+    build:
+      context: .
+    image: staging-suites-market-ami1
+    volumes:
+       - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+    restart: always
+    ports:
+      - '127.0.0.1:3016:80'
